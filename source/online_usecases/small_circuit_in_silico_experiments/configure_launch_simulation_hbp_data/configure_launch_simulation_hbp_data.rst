@@ -5,8 +5,7 @@ Documentation
 Configure and Launch Simulations
 ================================
 
-This use case allows a user to configure and launch a simulation in
-Jülich infrestructure using `Unicore API <https://www.unicore.eu/>`__.
+This use case allows a user to configure and launch a simulation on HBP HPAC infrastructure using `Unicore API <https://www.unicore.eu/>`__.
 
 1) Run Simulations
 ~~~~~~~~~~~~~~~~~~
